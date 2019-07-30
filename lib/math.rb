@@ -19,5 +19,5 @@ product = num1 % num2
 end
 
 def square_root(num)
-result = Math.sqrt.num 
+result = math.sqrt.num 
 end
