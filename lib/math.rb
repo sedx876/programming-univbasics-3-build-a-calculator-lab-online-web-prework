@@ -15,7 +15,7 @@ product = num1 * num2
 end
 
 def modulo(num1, num2)
-
+product = num1 % num2
 end
 
 def square_root(num)
